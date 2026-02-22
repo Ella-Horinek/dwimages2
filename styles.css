@@ -1,0 +1,56 @@
+@charset "UTF-8";
+body {
+    background-color: #0E4749;
+}
+body div {
+    background-color: #ADD7F6;
+    margin-left: 15%;
+    width: 70%;
+}
+article {
+    clear: both;
+}
+.bannerpic {
+}
+.bannerpic img {
+    width: 100%;
+    height: auto;
+}
+.floatpicright {
+}
+.floatpicright p img {
+    width: 33%;
+    height: auto;
+    padding: 2%;
+    float: right;
+}
+.floatpicleft {
+}
+.floatpicleft p img {
+    width: 33%;
+    height: auto;
+    padding: 2%;
+    float: left;
+}
+.middlepic {
+}
+.middlepic p {
+    text-align: center;
+}
+.middlepic p img {
+    width: 33%;
+    padding: 2%;
+    height: auto;
+}
+.bottombanner {
+}
+.bottombanner p img {
+    width: 100%;
+    height: auto;
+}
+.bannerpic h1 {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
